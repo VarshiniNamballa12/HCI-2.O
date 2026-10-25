@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Viswakarma — PPE Safety Detection
 
 A webcam-based Personal Protective Equipment (PPE) detection project using Python, OpenCV, and Ultralytics YOLO.
@@ -52,3 +53,7 @@ Ensure your webcam is connected and available. Press `Q` to exit the detection w
 ## License
 
 Review the applicable licenses for the dataset, model, and dependencies before redistribution.
+=======
+# HCI-2.O
+Zenvia is a multimodal AI system that understands human intent through voice, gestures, vision, and sensors. It uses contextual reasoning and safety verification to convert intentions into safe physical or digital actions with real-time feedback, enabling natural, accessible, and intelligent human-machine interaction.
+>>>>>>> origin/main
